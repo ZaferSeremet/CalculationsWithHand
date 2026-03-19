@@ -17,6 +17,14 @@ A computer vision application that lets you **draw math equations in the air wit
 
 Additionally, the **Gemini API** can be used as a fallback for complex or ambiguous expressions.
 
+## 💾 Dataset
+
+To use or train the model, you need the handwritten symbols dataset. Due to GitHub's file size limits, the dataset is hosted on Kaggle:
+
+🔗 **[Download Dataset from Kaggle](https://www.kaggle.com/datasets/muhammetzafereremet/hand-drawn-math-symbols-and-digits)**
+
+After downloading, extract the contents into the `dataset/` directory before running any scripts.
+
 ## Features
 
 - ✍️ Draw math expressions using hand gestures (via webcam)
