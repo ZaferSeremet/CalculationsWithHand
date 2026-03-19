@@ -1,0 +1,21 @@
+# Environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Model weights (too large for GitHub – share via releases or Google Drive)
+*.h5
+
+# Temp files
+temp_expression.jpg
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Dataset images
+dataset/
