@@ -7,8 +7,8 @@ __pycache__/
 .idea/
 .vscode/
 
-# Model weights (too large for GitHub – share via releases or Google Drive)
-*.h5
+# Model weights (small enough to include directly)
+# *.h5
 
 # Temp files
 temp_expression.jpg
